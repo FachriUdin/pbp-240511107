@@ -9,7 +9,8 @@
 
 Platform merupakan lingkungan yang digunakan untuk menjalankan aplikasi. Setiap platform memiliki karakteristik, teknologi, keunggulan, dan keterbatasan yang berbeda.
 
-| Aspek           | Web                                                                                                                                        | Desktop                                                                                                                                      | Mobile                                                                                                             |
+| Aspek           | Web                                                                           
+                                                            | Desktop                                                                                                                                      | Mobile                                                                                                             |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Bahasa utama    | HTML, CSS, JavaScript, dan bahasa backend seperti PHP atau Python                                                                          | Java, C#, C++, Python, dan JavaScript                                                                                                        | Kotlin, Java, Swift, dan Dart                                                                                      |
 | Arsitektur      | Umumnya menggunakan arsitektur client-server. Aplikasi diakses melalui browser dan dapat terhubung ke server.                              | Aplikasi berjalan di sistem operasi komputer dan dapat mengakses sumber daya lokal sesuai izin.                                              | Aplikasi berjalan pada sistem operasi perangkat mobile, seperti Android dan iOS, dengan akses ke fitur perangkat.  |
@@ -20,10 +21,10 @@ Platform merupakan lingkungan yang digunakan untuk menjalankan aplikasi. Setiap 
 
 ## 2. Sumber Referensi
 
-1. MDN Web Docs. _Introduction to the Web_. [https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/What_is_the_web](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/What_is_the_web)
+1. MDN Web Docs. *Introduction to the Web*. [https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/What_is_the_web](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/What_is_the_web)
 
-2. Microsoft Learn. _Windows app development documentation_. [https://learn.microsoft.com/en-us/windows/apps/](https://learn.microsoft.com/en-us/windows/apps/)
+2. Microsoft Learn. *Windows app development documentation*. [https://learn.microsoft.com/en-us/windows/apps/](https://learn.microsoft.com/en-us/windows/apps/)
 
-3. Android Developers. _Build your first app_. [https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app)
+3. Android Developers. *Build your first app*. [https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app)
 
-4. MDN Web Docs. _Progressive web apps (PWAs)_. [https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+4. MDN Web Docs. *Progressive web apps (PWAs)*. [https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
